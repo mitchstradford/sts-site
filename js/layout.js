@@ -6,7 +6,7 @@ const NAV_HTML = `
         <div class="nav__mark"><span>STS</span></div>
         <div class="nav__name">
           <strong>Sales Tax Solutions</strong>
-          <small>California CDTFA Specialists</small>
+          <small>CDTFA Audit & Appeals Specialists</small>
         </div>
       </a>
       <ul class="nav__links" role="list">
@@ -46,7 +46,7 @@ const FOOTER_HTML = `
           </div>
           <div>
             <div style="font-size:0.875rem;font-weight:600;color:var(--white);">Sales Tax Solutions</div>
-            <div style="font-size:0.7rem;color:var(--blue-light);">California CDTFA Specialists</div>
+            <div style="font-size:0.7rem;color:var(--blue-light);">CDTFA Audit & Appeals Specialists</div>
           </div>
         </div>
         <p>Expert California sales tax consulting. Protecting businesses from CDTFA audits, penalties, and overpayments for over 10 years.</p>
