@@ -1,23 +1,252 @@
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  force = false
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sales Tax Solutions | California Sales Tax Consulting</title>
+  <meta name="description" content="Expert California sales tax consulting. Over 10 years helping businesses manage CDTFA audits, appeals, compliance, and overpayment refunds. 250+ clients served, $10M+ in reduced liabilities.">
+  <meta name="keywords" content="California sales tax consulting, CDTFA audit, sales tax audit management, sales tax appeals, California excise tax, CDTFA compliance, sales tax refund California">
+  <link rel="canonical" href="https://www.salestaxsolutions.com/">
+  <meta property="og:title" content="Sales Tax Solutions | California Sales Tax Consulting">
+  <meta property="og:description" content="Expert California sales tax consulting. Over 10 years helping businesses navigate CDTFA audits, appeals, and compliance.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.salestaxsolutions.com/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Sales Tax Solutions",
+    "url": "https://www.salestaxsolutions.com",
+    "description": "California sales tax consulting specializing in CDTFA audits, appeals, compliance, and refunds.",
+    "areaServed": "California",
+    "serviceType": ["Sales Tax Consulting", "CDTFA Audit Management", "Sales Tax Appeals", "Tax Compliance"],
+    "knowsAbout": ["California Sales Tax", "CDTFA", "Sales Tax Audits", "Excise Tax", "Tax Appeals"]
+  }
+  </script>
+</head>
+<body>
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "strict-origin-when-cross-origin"
+  <div id="nav-placeholder"></div>
 
-[[headers]]
-  for = "/css/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
+  <!-- HERO -->
+  <main>
+    <section class="hero" aria-labelledby="hero-heading">
+      <div class="container">
+        <div class="hero__inner">
+          <div class="hero__badge">CDTFA Audit & Appeals Specialists</div>
+          <h1 id="hero-heading" style="max-width:520px;">When the CDTFA comes calling, <em>we answer for you.</em></h1>
+          <p class="hero__sub">Sales Tax Solutions provides expert California sales tax consulting — from audit management and appeals to compliance, refunds, and return preparation. Over 10 years of proven results protecting California businesses.</p>
+          <div class="hero__btns">
+            <a href="/pages/contact.html" class="btn btn-primary btn-arrow">Schedule a Free Consultation</a>
+            <a href="/pages/services.html" class="btn btn-outline">View Our Services</a>
+          </div>
+        </div>
+      </div>
+    </section>
 
-[[headers]]
-  for = "/js/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
+    <!-- TRUST BAR -->
+    <div class="trust-bar" aria-label="Key credentials">
+      <div class="container">
+        <div class="trust-bar__inner">
+          <div class="trust-item"><span class="trust-item__dot"></span>CDTFA Audit Management</div>
+          <div class="trust-item"><span class="trust-item__dot"></span>Audit Appeals</div>
+          <div class="trust-item"><span class="trust-item__dot"></span>Compliance &amp; Collections</div>
+          <div class="trust-item"><span class="trust-item__dot"></span>Refunds &amp; Overpayments</div>
+          <div class="trust-item"><span class="trust-item__dot"></span>Excise Tax</div>
+          <div class="trust-item"><span class="trust-item__dot"></span>Return Preparation</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STATS -->
+    <section class="section stats" aria-labelledby="stats-heading">
+      <div class="container">
+        <h2 id="stats-heading" class="sr-only">Our track record</h2>
+        <div class="stats__grid">
+          <div class="stat-card">
+            <div class="stat-card__num"><span>10+</span></div>
+            <div class="stat-card__label">Years of California Sales Tax Experience</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-card__num">$<span>10M</span>+</div>
+            <div class="stat-card__label">In Reduced Audit Liabilities</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-card__num"><span>250</span>+</div>
+            <div class="stat-card__label">California Businesses Served</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section class="section" aria-labelledby="services-heading">
+      <div class="container">
+        <span class="eyebrow">What we do</span>
+        <h2 id="services-heading">Comprehensive California Sales Tax Services</h2>
+        <p style="color:var(--text-muted); max-width:580px; margin-top:0.75rem;">We handle every aspect of California sales tax, administered by the CDTFA — so you don't have to navigate it alone.</p>
+        <div class="services__grid">
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><path d="M12 3l9 18H3L12 3z"/><path d="M12 10v4M12 17v.5"/></svg>
+            </div>
+            <h3>Sales Tax Audit Management</h3>
+            <p>When you receive a CDTFA audit notice, every decision matters. We manage the entire process — from the initial response through closing — minimizing your liability and protecting your rights.</p>
+            <a href="/pages/services.html#audit-management" class="service-card__link">Learn more →</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><path d="M3 6l9 6 9-6M3 12l9 6 9-6"/></svg>
+            </div>
+            <h3>Sales Tax Audit Appeals</h3>
+            <p>Disagree with a CDTFA audit determination? We build and argue your appeal at the CDTFA Appeals Bureau and the Office of Tax Appeals, with a track record of significantly reducing assessments.</p>
+            <a href="/pages/services.html#audit-appeals" class="service-card__link">Learn more →</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 12h6M12 9v6"/></svg>
+            </div>
+            <h3>Compliance &amp; Collection Matters</h3>
+            <p>Facing collection action, a lien, or a compliance audit? We help you get into compliance efficiently, negotiate installment agreements, and resolve outstanding liabilities before they escalate.</p>
+            <a href="/pages/services.html#compliance" class="service-card__link">Learn more →</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l4 2"/></svg>
+            </div>
+            <h3>Refunds &amp; Overpayments</h3>
+            <p>California businesses routinely overpay sales tax. We perform detailed refund analyses to identify overpayments and pursue claims with the CDTFA to recover money you're owed.</p>
+            <a href="/pages/services.html#refunds" class="service-card__link">Learn more →</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><path d="M4 20V10l8-6 8 6v10"/><path d="M9 20v-6h6v6"/></svg>
+            </div>
+            <h3>California Excise Tax</h3>
+            <p>California's excise tax landscape — covering cannabis, fuel, tobacco, and alcohol — is complex and heavily regulated. We help businesses navigate CDTFA excise tax obligations and audits.</p>
+            <a href="/pages/services.html#excise-tax" class="service-card__link">Learn more →</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg>
+            </div>
+            <h3>Sales Tax Return Preparation</h3>
+            <p>Accurate, timely CDTFA return preparation for businesses of all sizes. We ensure your returns are filed correctly, on time, and in a way that minimizes audit risk going forward.</p>
+            <a href="/pages/services.html#return-prep" class="service-card__link">Learn more →</a>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- WHY US -->
+    <section class="section why" aria-labelledby="why-heading">
+      <div class="container">
+        <span class="eyebrow" style="color:var(--blue-light);">Why Sales Tax Solutions</span>
+        <h2 id="why-heading">California sales tax expertise you can count on</h2>
+        <div class="why__grid">
+          <div class="why__points">
+            <div class="why__point">
+              <div class="why__num">01</div>
+              <div>
+                <h3>CDTFA matters, exclusively</h3>
+                <p>We specialize exclusively in CDTFA matters. Deep, current knowledge of state-specific rules, procedures, and CDTFA practices means better outcomes for your case.</p>
+              </div>
+            </div>
+            <div class="why__point">
+              <div class="why__num">02</div>
+              <div>
+                <h3>Audit Defense Track Record</h3>
+                <p>Over $10 million in reduced audit liabilities across more than 250 clients. We know how CDTFA auditors work — and we know how to counter them effectively.</p>
+              </div>
+            </div>
+            <div class="why__point">
+              <div class="why__num">03</div>
+              <div>
+                <h3>Transparent, Straightforward Fees</h3>
+                <p>No surprise bills. We discuss fees upfront so you can make informed decisions about your case. Free initial consultation, always.</p>
+              </div>
+            </div>
+            <div class="why__point">
+              <div class="why__num">04</div>
+              <div>
+                <h3>Full-Service Representation</h3>
+                <p>From the first audit notice through appeal, collection resolution, or tax court if needed — we handle the entire process so you can focus on running your business.</p>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="why__card">
+              <div class="why__card-stat">$<span>10M</span>+</div>
+              <div style="font-size:0.8rem; color:var(--blue-light); font-weight:600; letter-spacing:0.05em; text-transform:uppercase;">In reduced audit liabilities</div>
+              <p>Across over a decade of representing California businesses before the CDTFA — in audits, appeals, and compliance proceedings.</p>
+              <hr class="why__card-divider">
+              <div class="why__card-stat" style="font-size:2rem;"><span>250</span>+</div>
+              <div style="font-size:0.8rem; color:var(--blue-light); font-weight:600; letter-spacing:0.05em; text-transform:uppercase;">California businesses served</div>
+              <p>From small retailers and restaurants to manufacturers, distributors, and tech companies — across every major industry in California.</p>
+              <hr class="why__card-divider">
+              <a href="/pages/contact.html" class="btn btn-outline" style="width:100%; justify-content:center; margin-top:0.25rem;">Get a Free Consultation →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- HOW IT WORKS -->
+    <section class="section process" aria-labelledby="process-heading">
+      <div class="container">
+        <span class="eyebrow">How it works</span>
+        <h2 id="process-heading">Simple, transparent process</h2>
+        <p style="color:var(--text-muted); max-width:520px; margin-top:0.75rem;">From your first call to a resolved matter — here's what working with us looks like.</p>
+        <div class="process__steps">
+          <div class="process-step">
+            <div class="process-step__num">1</div>
+            <h3>Free Consultation</h3>
+            <p>Tell us about your situation. We'll review your case, explain your options, and outline a strategy — at no cost and with no obligation.</p>
+          </div>
+          <div class="process-step">
+            <div class="process-step__num">2</div>
+            <h3>Strategy &amp; Engagement</h3>
+            <p>We develop a tailored plan for your specific matter, explain our fees clearly, and take over all communication with the CDTFA on your behalf.</p>
+          </div>
+          <div class="process-step">
+            <div class="process-step__num">3</div>
+            <h3>Resolution</h3>
+            <p>We work toward the best possible outcome — whether that's a reduced audit assessment, a successful appeal, a refund, or ongoing compliance support.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section" aria-labelledby="cta-heading">
+      <div class="container">
+        <span class="eyebrow" style="color:var(--blue-light); display:block; text-align:center; margin-bottom:1rem;">Free consultation</span>
+        <h2 id="cta-heading">Facing a CDTFA audit or notice?<br>Let's talk.</h2>
+        <p>Get a free, no-obligation consultation. We'll review your situation and tell you exactly where you stand — and what we can do about it.</p>
+        <form class="cta-form" action="/pages/contact.html" method="get" aria-label="Quick contact form">
+          <input type="text" name="name" placeholder="Your name" autocomplete="name" aria-label="Your name">
+          <input type="email" name="email" placeholder="Work email" autocomplete="email" aria-label="Email address">
+          <button type="submit" class="btn btn-primary">Book My Free Call →</button>
+        </form>
+        <p class="cta-note">No spam. No commitment. Just straight answers about your California sales tax situation.</p>
+      </div>
+    </section>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <style>
+    .sr-only { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; }
+  </style>
+  <script src="/js/layout.js"></script>
+</body>
+</html>
