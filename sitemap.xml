@@ -1,5 +1,13 @@
-User-agent: *
-Allow: /
-Disallow: /pages/thank-you.html
-
-Sitemap: https://www.salestaxsolutions.com/sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.salestaxsolutions.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/services.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/audit-management.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/audit-appeals.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/compliance.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/refunds.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/excise-tax.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/return-preparation.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/about.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.salestaxsolutions.com/pages/contact.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+</urlset>
