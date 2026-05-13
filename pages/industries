@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18133185968"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-18133185968');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>California Auto Dealer Sales Tax Consulting | Sales Tax Solutions</title>
+  <meta name="description" content="California auto dealers face unique sales tax rules involving interstate sales, accessories, F&I products, and DMV overlap. We help dealerships defend CDTFA audits and close compliance gaps.">
+  <meta name="keywords" content="auto dealer sales tax California, CDTFA dealership audit, car dealer sales tax consultant California, vehicle sales tax California, CDTFA form 447 448 837">
+  <link rel="canonical" href="https://www.salestaxsolutions.com/pages/industries/auto-dealers.html">
+  <meta property="og:title" content="California Auto Dealer Sales Tax Consulting | Sales Tax Solutions">
+  <meta property="og:description" content="Expert CDTFA audit defense and sales tax compliance for California auto dealers and commercial truck dealers.">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "California Auto Dealer Sales Tax Consulting",
+    "provider": { "@type": "ProfessionalService", "name": "Sales Tax Solutions", "url": "https://www.salestaxsolutions.com" },
+    "areaServed": "California",
+    "description": "CDTFA audit defense and sales tax compliance for California auto dealers and commercial truck dealers."
+  }
+  </script>
+</head>
+<body>
+  <div id="nav-placeholder"></div>
+
+  <header class="page-header">
+    <div class="container">
+      <span class="eyebrow" style="color:var(--blue-light);">Industries we serve</span>
+      <h1>Auto Dealers &amp; Commercial Truck Dealers</h1>
+      <p>California auto dealers face some of the most specialized sales tax rules in the state — and the CDTFA audits the industry with detailed, transaction-level scrutiny. We help dealerships defend audits, document interstate sales correctly, and close compliance gaps before they become assessments.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="service-detail" aria-labelledby="industry-heading">
+      <div class="container">
+        <div class="service-detail__grid">
+          <div class="service-detail__content">
+
+            <h2 id="industry-heading">The California auto dealer tax environment</h2>
+            <p>Vehicle sales tax in California is administered through a unique DMV-CDTFA data-sharing arrangement that gives auditors transaction-level visibility into every vehicle sold at your dealership. Combined with the complexity of taxable selling price rules, interstate sale exemption documentation requirements, F&I product taxability, and service department compliance, the audit risk profile for California dealerships is significant — and the assessments that result from audits tend to be large because the underlying transaction values are high.</p>
+
+            <h2>No trade-in deduction in California</h2>
+            <p>This is one of the most critical — and most commonly misunderstood — rules for California dealers. <strong>California does not permit a trade-in allowance to reduce the taxable gross receipts on a vehicle sale.</strong> Unlike many other states, California requires sales tax to be calculated on the full selling price of the vehicle regardless of any trade-in.</p>
+            <p>A customer purchasing a $70,000 vehicle and trading in a vehicle worth $25,000 still owes sales tax on the full $70,000 — not $45,000. Dealers who have been reducing the taxable selling price by the trade-in value are systematically under-collecting and under-remitting sales tax. Because this error affects every deal involving a trade-in, it can produce large aggregate assessments across the audit period.</p>
+
+            <h2>Interstate sales and out-of-state use exemptions</h2>
+            <p>For dealers that sell high-end or luxury vehicles, interstate sales — where the buyer takes delivery in California but will register and use the vehicle out of state — are one of the most significant and frequently contested areas of California auto dealer sales tax compliance.</p>
+            <p>The exemption for vehicles delivered in California for out-of-state use is real, but it is not automatic. It requires contemporaneous documentation assembled at the time of sale. Auditors scrutinize these claims carefully, particularly for high-value vehicles where the tax, interest, and penalty exposure on a single transaction can be substantial.</p>
+
+            <h3>CDTFA Form 448 — Statement of Facts</h3>
+            <p>CDTFA Form 448 is the primary documentation tool for supporting an out-of-state use exemption. A properly completed Form 448, signed by the buyer and retained in the deal jacket, is a required element of a defensible interstate sale exemption claim. The form must be accompanied by:</p>
+            <ul>
+              <li>Evidence that the vehicle was promptly removed from California after delivery</li>
+              <li>Documentation of out-of-state registration or other evidence of out-of-state use</li>
+              <li>A copy of the out-of-state buyer's driver's license or other identification</li>
+            </ul>
+            <p>Dealers who sell significant volumes of high-value vehicles to out-of-state buyers — whether luxury automobiles, exotic cars, collector vehicles, or commercial trucks — should have a formal Form 448 process in place for every such transaction. Documentation assembled after an audit notice arrives is rarely sufficient to satisfy the CDTFA.</p>
+
+            <h3>CDTFA Form 447 — Statement of Error or Erasure</h3>
+            <p>CDTFA Form 447 is used to document corrections and adjustments to vehicle sales tax reporting. Dealers need to understand when Form 447 is required — including when correcting errors in previously reported transactions — and how to complete it accurately. Errors in its use, or failure to use it when required, can themselves become audit findings.</p>
+
+            <h2>Dealer-installed accessories</h2>
+            <p>Accessories installed on a vehicle before sale — paint protection film, window tinting, running boards, upgraded audio, tow packages, and similar items — are generally taxable as part of the vehicle selling price. Auditors look specifically for accessories shown in deal jacket documentation that don't appear in the reported taxable selling price, and for accessories billed separately after the sale that weren't taxed. This is a systematic issue when it occurs and affects every transaction where accessories were added.</p>
+
+            <h2>F&I products and extended warranties</h2>
+            <p>The taxability of F&I products depends on how they're structured and characterized in the sales process. Mandatory service contracts are generally included in the taxable selling price. Optional service contracts, separately presented and sold at the customer's election, are generally not subject to sales tax if they cover future repair labor and parts. GAP insurance and other products have their own treatment. Dealers with significant F&I volume should have their product taxability determinations reviewed by a qualified California sales tax professional.</p>
+
+            <h2>Parts and service department compliance</h2>
+            <p>The service department generates its own sales tax obligations separate from vehicle sales. Parts sold at retail are taxable at the selling price. Labor is not taxable — but parts and labor must be separately stated on service invoices for the labor exemption to apply. Warranty repair work, sublet repairs billed back to customers, and over-the-counter parts sales each have specific treatment. Service department errors tend to be systematic and can produce significant assessments when applied across the full audit period.</p>
+
+            <h2>Commercial truck dealers and CDTFA Form 837</h2>
+            <p>Dealers who sell commercial vehicles — heavy-duty trucks, semi-trucks, and other vehicles subject to California's weight fee regulations — operate under a separate set of rules that differ meaningfully from standard automobile sales.</p>
+
+            <h3>CDTFA Form 837 — Motor Vehicle Fuel Tax Return</h3>
+            <p>CDTFA Form 837 governs motor vehicle fuel tax reporting obligations that arise in connection with commercial vehicle transactions. Commercial truck dealers and operators need to understand when Form 837 filing obligations are triggered and how to properly report fuel tax in connection with commercial vehicle sales and operations.</p>
+            <p>Additional compliance considerations for commercial truck dealers include:</p>
+            <ul>
+              <li><strong>Weight fee treatment.</strong> California weight fees are not subject to sales tax and must be properly excluded from the taxable selling price, with correct documentation on each deal jacket.</li>
+              <li><strong>Interstate commerce exemptions.</strong> Commercial vehicles used exclusively in interstate commerce may qualify for sales tax exemptions that don't apply to personal-use vehicles. Documentation requirements must be satisfied at the time of sale — not after an audit begins.</li>
+              <li><strong>Fleet and wholesale sales.</strong> Commercial vehicle dealers who sell to fleet operators or other dealers need valid resale or exemption certificates. Missing or defective certificates result in the dealer owing the uncollected tax.</li>
+              <li><strong>Demonstrator and business-use vehicles.</strong> Commercial trucks used as demonstrators or for business purposes may generate use tax obligations separate from sales tax on sold vehicles.</li>
+            </ul>
+            <p>The CDTFA audits commercial vehicle dealers with awareness of both the standard auto dealer audit program and the additional rules specific to commercial trucks. Dealers operating in this segment should ensure their compliance program addresses both sets of requirements.</p>
+
+            <h2>DMV and CDTFA data coordination</h2>
+            <p>California vehicle sales tax is collected by the dealer and remitted to the DMV as part of the registration process — not directly to the CDTFA on a standard sales tax return. The CDTFA and DMV actively coordinate data, giving auditors the ability to reconcile DMV registration records against your deal jackets and internal records. Systematic discrepancies — including incorrect taxable selling prices, improperly claimed exemptions, or missing accessory charges — show up clearly in this comparison.</p>
+
+            <h2>How we help auto and commercial truck dealers</h2>
+            <ul>
+              <li><strong>Audit defense.</strong> We manage CDTFA dealership audits end to end — reviewing deal jackets, DMV submissions, Form 448 documentation, service records, and F&I files before the auditor does, and challenging unfavorable findings at every stage.</li>
+              <li><strong>Interstate sale documentation review.</strong> We assess your current Form 448 process for high-value and out-of-state vehicle sales and help you build a documentation system that holds up under audit scrutiny.</li>
+              <li><strong>Taxable selling price analysis.</strong> We review your deal jacket methodology to ensure the taxable selling price is calculated correctly — including confirming no improper trade-in deductions are being applied.</li>
+              <li><strong>F&I product taxability review.</strong> We analyze how your service contracts, GAP, and other F&I products are characterized for tax purposes and advise on any necessary corrections.</li>
+              <li><strong>Commercial truck compliance.</strong> We advise on Form 837 obligations, weight fee treatment, interstate commerce exemptions, and the full range of compliance requirements specific to commercial vehicle dealers.</li>
+              <li><strong>Audit appeals.</strong> When CDTFA audit determinations are incorrect or excessive, we build and argue your appeal at the CDTFA Appeals Bureau and the Office of Tax Appeals.</li>
+            </ul>
+
+            <div style="margin-top:2.5rem; padding:1.75rem; background:var(--blue-pale); border-radius:var(--radius-lg); border-left:4px solid var(--blue);">
+              <p style="font-size:0.925rem; color:var(--navy); font-weight:500; margin-bottom:0.25rem;">Auto or commercial truck dealer facing a CDTFA issue?</p>
+              <p style="font-size:0.875rem; color:var(--text-muted); margin-bottom:0;">Call us at <a href="tel:+19166336206" style="color:var(--blue); font-weight:600;">(916) 633-6206</a> or <a href="/pages/contact.html" style="color:var(--blue); font-weight:600;">schedule a free consultation</a>. We'll review your situation and explain your options at no charge.</p>
+            </div>
+
+          </div>
+          <aside>
+            <div class="sidebar-card">
+              <h3>Free consultation</h3>
+              <p>Talk to a California sales tax specialist who knows the dealership environment.</p>
+              <a href="/pages/contact.html" class="btn btn-primary btn-arrow" style="width:100%; justify-content:center; margin-bottom:0.75rem;">Free Consultation</a>
+              <a href="tel:+19166336206" class="btn btn-outline-navy" style="width:100%; justify-content:center;">Call (916) 633-6206</a>
+            </div>
+
+            <div style="margin-top:1rem; background:var(--off-white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.5rem;">
+              <h4 style="font-size:0.875rem; color:var(--navy); margin-bottom:0.75rem;">Key CDTFA forms for dealers</h4>
+              <ul style="list-style:none; display:flex; flex-direction:column; gap:0.6rem;">
+                <li style="font-size:0.8rem; color:var(--text-muted);"><strong style="color:var(--navy);">Form 447</strong> — Statement of Error or Erasure</li>
+                <li style="font-size:0.8rem; color:var(--text-muted);"><strong style="color:var(--navy);">Form 448</strong> — Statement of Facts (interstate sales)</li>
+                <li style="font-size:0.8rem; color:var(--text-muted);"><strong style="color:var(--navy);">Form 837</strong> — Motor Vehicle Fuel Tax Return (commercial trucks)</li>
+              </ul>
+            </div>
+
+            <div style="margin-top:1rem; background:var(--off-white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.5rem;">
+              <h4 style="font-size:0.875rem; color:var(--navy); margin-bottom:1rem;">Common issues we handle</h4>
+              <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ CDTFA audit defense</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ Taxable selling price review</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ Form 448 interstate sale documentation</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ F&amp;I product taxability</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ Service dept. invoicing compliance</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ Commercial truck / Form 837</li>
+                <li style="font-size:0.825rem; color:var(--text-muted);">✓ DMV reconciliation issues</li>
+              </ul>
+            </div>
+
+            <div style="margin-top:1rem; background:var(--off-white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.5rem;">
+              <h4 style="font-size:0.875rem; color:var(--navy); margin-bottom:1rem;">Related resources</h4>
+              <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+                <li><a href="/pages/blog/auto-dealer-sales-tax-audit.html" style="font-size:0.825rem; color:var(--blue);">Auto dealer sales tax audits in California →</a></li>
+                <li><a href="/pages/blog/cdtfa-audit-notice.html" style="font-size:0.825rem; color:var(--blue);">What to do after a CDTFA notice →</a></li>
+                <li><a href="/pages/blog/cdtfa-appeal-process.html" style="font-size:0.825rem; color:var(--blue);">CDTFA appeal process explained →</a></li>
+              </ul>
+            </div>
+
+            <div style="margin-top:1rem; background:var(--off-white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.5rem;">
+              <h4 style="font-size:0.875rem; color:var(--navy); margin-bottom:1rem;">Our services</h4>
+              <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+                <li><a href="/pages/audit-management.html" style="font-size:0.825rem; color:var(--blue);">Sales Tax Audit Management →</a></li>
+                <li><a href="/pages/audit-appeals.html" style="font-size:0.825rem; color:var(--blue);">Sales Tax Audit Appeals →</a></li>
+                <li><a href="/pages/refunds.html" style="font-size:0.825rem; color:var(--blue);">Refunds &amp; Overpayments →</a></li>
+                <li><a href="/pages/compliance.html" style="font-size:0.825rem; color:var(--blue);">Compliance &amp; Collections →</a></li>
+              </ul>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" style="background:var(--off-white); border-top:1px solid var(--gray-200);" aria-labelledby="industries-heading">
+      <div class="container">
+        <span class="eyebrow">Other industries we serve</span>
+        <h2 id="industries-heading">Industry-specific experience across California</h2>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:1rem; margin-top:2rem;">
+          <a href="/pages/industries/restaurants.html" style="display:block; background:var(--white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.25rem; text-decoration:none;">
+            <div style="font-size:0.875rem; font-weight:600; color:var(--navy); margin-bottom:0.35rem;">Restaurants &amp; Food Service</div>
+            <div style="font-size:0.8rem; color:var(--text-muted);">Food taxability, 80/80 rule, markup audits</div>
+          </a>
+          <a href="/pages/industries/cannabis.html" style="display:block; background:var(--white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.25rem; text-decoration:none;">
+            <div style="font-size:0.875rem; font-weight:600; color:var(--navy); margin-bottom:0.35rem;">Cannabis</div>
+            <div style="font-size:0.8rem; color:var(--text-muted);">Excise tax, METRC reconciliation, dispensary audits</div>
+          </a>
+          <a href="/pages/industries/construction.html" style="display:block; background:var(--white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.25rem; text-decoration:none;">
+            <div style="font-size:0.875rem; font-weight:600; color:var(--navy); margin-bottom:0.35rem;">Construction &amp; Contractors</div>
+            <div style="font-size:0.8rem; color:var(--text-muted);">Materials vs. labor, fixtures, subcontractor issues</div>
+          </a>
+          <a href="/pages/industries/retail.html" style="display:block; background:var(--white); border:1px solid var(--gray-200); border-radius:var(--radius-lg); padding:1.25rem; text-decoration:none;">
+            <div style="font-size:0.875rem; font-weight:600; color:var(--navy); margin-bottom:0.35rem;">Retail</div>
+            <div style="font-size:0.8rem; color:var(--text-muted);">Exemptions, resale certificates, e-commerce nexus</div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section" aria-labelledby="cta-heading">
+      <div class="container">
+        <h2 id="cta-heading">Facing a CDTFA audit or notice? Let's talk.</h2>
+        <p>Free 30-minute consultation. We'll review your situation and tell you exactly where you stand.</p>
+        <div style="display:flex; gap:0.75rem; justify-content:center; flex-wrap:wrap;">
+          <a href="/pages/contact.html" class="btn btn-primary btn-arrow">Schedule Free Consultation</a>
+          <a href="tel:+19166336206" class="btn btn-outline">Call (916) 633-6206</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="footer-placeholder"></div>
+  <style>.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;}</style>
+  <script src="/js/layout.js"></script>
+</body>
+</html>
