@@ -28,6 +28,11 @@ const NAV_HTML = `
       background:transparent !important;
     }
     .nav__dropdown-menu a:hover { background:rgba(255,255,255,0.08) !important; color:#fff !important; }
+    .nav__dropdown-menu .nav__dropdown-divider {
+      height:1px;
+      background:rgba(255,255,255,0.08);
+      margin:0.35rem 0.5rem;
+    }
     .nav__dropdown > a::after { content:' ▾'; font-size:0.7rem; opacity:0.6; }
     .nav__phone { font-size:0.8rem; color:rgba(255,255,255,0.6); display:flex; align-items:center; gap:0.4rem; }
     .nav__phone a { color:rgba(255,255,255,0.6); transition:color 0.15s; }
@@ -53,6 +58,35 @@ const NAV_HTML = `
             <a href="/pages/refunds.html">Refunds &amp; Overpayments</a>
             <a href="/pages/excise-tax.html">California Excise Tax</a>
             <a href="/pages/return-preparation.html">Sales Tax Return Preparation</a>
+          </div>
+        </li>
+        <li class="nav__dropdown">
+          <a href="/pages/industries/">Industries</a>
+          <div class="nav__dropdown-menu" role="menu">
+            <a href="/pages/industries/restaurants.html">Restaurants &amp; Food Service</a>
+            <a href="/pages/industries/cannabis.html">Cannabis</a>
+            <a href="/pages/industries/construction.html">Construction &amp; Contractors</a>
+            <a href="/pages/industries/retail.html">Retail</a>
+            <a href="/pages/industries/auto-dealers.html">Auto Dealers</a>
+          </div>
+        </li>
+        <li class="nav__dropdown">
+          <a href="/pages/blog/">Resources</a>
+          <div class="nav__dropdown-menu" role="menu">
+            <a href="/pages/blog/cdtfa-audit-notice.html">What to Do After a CDTFA Notice</a>
+            <a href="/pages/blog/how-long-cdtfa-audit.html">How Long Does a CDTFA Audit Take?</a>
+            <a href="/pages/blog/cdtfa-appeal-process.html">CDTFA Appeal Process Explained</a>
+            <a href="/pages/blog/california-sales-tax-refund.html">How to Get a Sales Tax Refund</a>
+            <a href="/pages/blog/cdtfa-collections-liens-levies.html">CDTFA Liens &amp; Levies</a>
+            <a href="/pages/blog/california-sales-tax-exemptions.html">Exemptions Most Businesses Miss</a>
+            <div class="nav__dropdown-divider"></div>
+            <a href="/pages/blog/restaurant-sales-tax-audit.html">Restaurants: Sales Tax Audits</a>
+            <a href="/pages/blog/cdtfa-cannabis-audit.html">Cannabis: CDTFA Audits</a>
+            <a href="/pages/blog/california-contractor-sales-tax.html">Construction: Sales Tax Rules</a>
+            <a href="/pages/blog/auto-dealer-sales-tax-audit.html">Auto Dealers: Sales Tax Audits</a>
+            <a href="/pages/blog/california-retail-sales-tax-audit-triggers.html">Retail: Audit Triggers</a>
+            <div class="nav__dropdown-divider"></div>
+            <a href="/pages/blog/">View All Resources →</a>
           </div>
         </li>
         <li><a href="/pages/about.html">About</a></li>
@@ -84,6 +118,25 @@ const NAV_HTML = `
           <li><a href="/pages/refunds.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Refunds &amp; Overpayments</a></li>
           <li><a href="/pages/excise-tax.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">California Excise Tax</a></li>
           <li><a href="/pages/return-preparation.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Return Preparation</a></li>
+        </ul>
+      </li>
+      <li style="padding:0.5rem 0;">
+        <div style="color:rgba(255,255,255,0.4); font-size:0.7rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:0.4rem;">Industries</div>
+        <ul style="list-style:none; display:flex; flex-direction:column; gap:0.1rem; padding-left:0.75rem;">
+          <li><a href="/pages/industries/restaurants.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Restaurants &amp; Food Service</a></li>
+          <li><a href="/pages/industries/cannabis.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Cannabis</a></li>
+          <li><a href="/pages/industries/construction.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Construction &amp; Contractors</a></li>
+          <li><a href="/pages/industries/retail.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Retail</a></li>
+          <li><a href="/pages/industries/auto-dealers.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Auto Dealers</a></li>
+        </ul>
+      </li>
+      <li style="padding:0.5rem 0;">
+        <div style="color:rgba(255,255,255,0.4); font-size:0.7rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:0.4rem;">Resources</div>
+        <ul style="list-style:none; display:flex; flex-direction:column; gap:0.1rem; padding-left:0.75rem;">
+          <li><a href="/pages/blog/" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">All Articles</a></li>
+          <li><a href="/pages/blog/cdtfa-audit-notice.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">CDTFA Audit Notice</a></li>
+          <li><a href="/pages/blog/cdtfa-appeal-process.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Appeal Process</a></li>
+          <li><a href="/pages/blog/california-sales-tax-refund.html" style="display:block; color:rgba(255,255,255,0.75); font-size:0.85rem; padding:0.3rem 0;">Sales Tax Refunds</a></li>
         </ul>
       </li>
       <li><a href="/pages/about.html" style="display:block; color:rgba(255,255,255,0.8); font-size:0.9rem; padding:0.5rem 0;">About</a></li>
@@ -123,10 +176,23 @@ const FOOTER_HTML = `
         </ul>
       </div>
       <div class="footer__col">
-        <h4>Company</h4>
+        <h4>Industries</h4>
         <ul>
+          <li><a href="/pages/industries/restaurants.html">Restaurants</a></li>
+          <li><a href="/pages/industries/cannabis.html">Cannabis</a></li>
+          <li><a href="/pages/industries/construction.html">Construction</a></li>
+          <li><a href="/pages/industries/retail.html">Retail</a></li>
+          <li><a href="/pages/industries/auto-dealers.html">Auto Dealers</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="/pages/blog/">All Articles</a></li>
+          <li><a href="/pages/blog/cdtfa-audit-notice.html">CDTFA Audit Notice</a></li>
+          <li><a href="/pages/blog/cdtfa-appeal-process.html">Appeal Process</a></li>
+          <li><a href="/pages/blog/california-sales-tax-refund.html">Sales Tax Refunds</a></li>
           <li><a href="/pages/about.html">About Us</a></li>
-          <li><a href="/pages/contact.html">Contact</a></li>
           <li><a href="/pages/contact.html">Free Consultation</a></li>
         </ul>
       </div>
@@ -136,7 +202,7 @@ const FOOTER_HTML = `
           <li><a href="tel:+19166336206">(916) 633-6206</a></li>
           <li><a href="mailto:info@salestaxsolutions.com">info@salestaxsolutions.com</a></li>
           <li><a href="/pages/contact.html">Schedule a Call</a></li>
-          <li style="color:rgba(255,255,255,0.35);font-size:0.75rem;margin-top:0.5rem;">California · Statewide</a></li>
+          <li style="color:rgba(255,255,255,0.35);font-size:0.75rem;margin-top:0.5rem;">California · Statewide</li>
         </ul>
       </div>
     </div>
