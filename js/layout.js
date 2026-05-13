@@ -34,6 +34,7 @@ const NAV_HTML = `
       margin:0.35rem 0.5rem;
     }
     .nav__dropdown > a::after { content:' ▾'; font-size:0.7rem; opacity:0.6; }
+    .nav__links a { white-space: nowrap; }
     .nav__phone { font-size:0.8rem; color:rgba(255,255,255,0.6); display:flex; align-items:center; gap:0.4rem; }
     .nav__phone a { color:rgba(255,255,255,0.6); transition:color 0.15s; }
     .nav__phone a:hover { color:#fff; }
