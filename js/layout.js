@@ -64,11 +64,11 @@ const NAV_HTML = `
         <li class="nav__dropdown">
           <a href="/pages/industries/">Industries</a>
           <div class="nav__dropdown-menu" role="menu">
-            <a href="/pages/industries/restaurants.html">Restaurants &amp; Food Service</a>
+            <a href="/pages/industries/auto-dealers.html">Auto Dealers</a>
             <a href="/pages/industries/cannabis.html">Cannabis</a>
             <a href="/pages/industries/construction.html">Construction &amp; Contractors</a>
+            <a href="/pages/industries/restaurants.html">Restaurants &amp; Food Service</a>
             <a href="/pages/industries/retail.html">Retail</a>
-            <a href="/pages/industries/auto-dealers.html">Auto Dealers</a>
           </div>
         </li>
         <li class="nav__dropdown">
@@ -179,11 +179,11 @@ const FOOTER_HTML = `
       <div class="footer__col">
         <h4>Industries</h4>
         <ul>
-          <li><a href="/pages/industries/restaurants.html">Restaurants</a></li>
-          <li><a href="/pages/industries/cannabis.html">Cannabis</a></li>
-          <li><a href="/pages/industries/construction.html">Construction</a></li>
-          <li><a href="/pages/industries/retail.html">Retail</a></li>
-          <li><a href="/pages/industries/auto-dealers.html">Auto Dealers</a></li>
+            <a href="/pages/industries/auto-dealers.html">Auto Dealers</a>
+            <a href="/pages/industries/cannabis.html">Cannabis</a>
+            <a href="/pages/industries/construction.html">Construction &amp; Contractors</a>
+            <a href="/pages/industries/restaurants.html">Restaurants &amp; Food Service</a>
+            <a href="/pages/industries/retail.html">Retail</a>
         </ul>
       </div>
       <div class="footer__col">
